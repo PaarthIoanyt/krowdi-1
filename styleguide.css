@@ -1,0 +1,398 @@
+:root { 
+  --abbey: #4e4e4e;
+  --black: #000000;
+  --black-2: #00000033;
+  --black-3: #0000000f;
+  --black-4: #0000000d;
+  --black-5: #0000001a;
+  --black-6: #00000026;
+  --black-squeeze: #f5fcfc;
+  --black-squeeze-2: #f5f9f9;
+  --carrot-orange: #ee8a2e33;
+  --carrot-orange-2: #ee8a2e;
+  --conch: #c5d9d9;
+  --ebb: #e0e3e3;
+  --ebb-2: #dfe3e3;
+  --geyser: #dae3e3;
+  --harp: #e6f1f0;
+  --lochinvar: #32908d;
+  --mine-shaft: #333333;
+  --mountain-mist: #969698;
+  --mystic: #dfeaea;
+  --oslo-gray: #7c908f;
+  --quick-silver: #a2a8a8;
+  --star-dust: #9a9a9a;
+  --storm-dust: #606060;
+  --sunglo: #d1686833;
+  --sunglo-2: #d16868;
+  --tradewind: #4daaa7;
+  --tradewind-2: #4daaa733;
+  --tundora: #444444;
+  --white: #ffffff;
+  --white-lilac: #f8f9fc;
+ 
+  --font-size-l: 15px;
+  --font-size-m: 14px;
+  --font-size-s: 13px;
+  --font-size-xl: 16px;
+  --font-size-xs: 12px;
+  --font-size-xxl: 17px;
+  --font-size-xxxl: 18px;
+ 
+  --font-family-graphik-bold: "Graphik-Bold", Helvetica;
+  --font-family-graphik-medium: "Graphik-Medium", Helvetica;
+  --font-family-graphik-regular: "Graphik-Regular", Helvetica;
+  --font-family-graphik-semibold: "Graphik-Semibold", Helvetica;
+  --font-family-poppins: "Poppins", Helvetica;
+}
+.graphik-medium-mine-shaft-14px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-graphik-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.graphik-regular-normal-quick-silver-15px {
+  color: var(--quick-silver);
+  font-family: var(--font-family-graphik-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.graphik-medium-mine-shaft-15px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-graphik-medium);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.graphik-medium-star-dust-14px {
+  color: var(--star-dust);
+  font-family: var(--font-family-graphik-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.graphik-regular-normal-star-dust-12px {
+  color: var(--star-dust);
+  font-family: var(--font-family-graphik-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.graphik-bold-mine-shaft-18px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-graphik-bold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.graphik-bold-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-graphik-bold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.graphik-bold-tradewind-36px {
+  color: var(--tradewind);
+  font-family: var(--font-family-graphik-bold);
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.graphik-bold-mine-shaft-15px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-graphik-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.graphik-normal-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-graphik-semibold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.graphik-regular-normal-abbey-12px {
+  color: var(--abbey);
+  font-family: var(--font-family-graphik-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.graphik-bold-mine-shaft-32px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-graphik-bold);
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.graphik-normal-mine-shaft-16px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-graphik-semibold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.graphik-medium-star-dust-12px {
+  color: var(--star-dust);
+  font-family: var(--font-family-graphik-medium);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.graphik-bold-tradewind-18px {
+  color: var(--tradewind);
+  font-family: var(--font-family-graphik-bold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.graphik-normal-tradewind-14px {
+  color: var(--tradewind);
+  font-family: var(--font-family-graphik-semibold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.graphik-medium-storm-dust-14px {
+  color: var(--storm-dust);
+  font-family: var(--font-family-graphik-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.graphik-medium-star-dust-17px {
+  color: var(--star-dust);
+  font-family: var(--font-family-graphik-medium);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.graphik-medium-mine-shaft-16px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-graphik-medium);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.graphik-regular-normal-storm-dust-14px {
+  color: var(--storm-dust);
+  font-family: var(--font-family-graphik-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.graphik-regular-normal-star-dust-13px {
+  color: var(--star-dust);
+  font-family: var(--font-family-graphik-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.graphik-normal-tradewind-16px {
+  color: var(--tradewind);
+  font-family: var(--font-family-graphik-semibold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.graphik-normal-mine-shaft-18px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-graphik-semibold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.graphik-medium-mine-shaft-12px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-graphik-medium);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.graphik-regular-normal-tundora-13px {
+  color: var(--tundora);
+  font-family: var(--font-family-graphik-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.graphik-bold-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-graphik-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.graphik-bold-mine-shaft-20px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-graphik-bold);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.poppins-normal-black-11px {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.graphik-medium-mine-shaft-18px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-graphik-medium);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.graphik-medium-white-11px {
+  color: var(--white);
+  font-family: var(--font-family-graphik-medium);
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.graphik-regular-normal-star-dust-15px {
+  color: var(--star-dust);
+  font-family: var(--font-family-graphik-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.graphik-medium-tradewind-10px {
+  color: var(--tradewind);
+  font-family: var(--font-family-graphik-medium);
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.graphik-regular-normal-star-dust-17px {
+  color: var(--star-dust);
+  font-family: var(--font-family-graphik-regular);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.graphik-bold-tradewind-24px {
+  color: var(--tradewind);
+  font-family: var(--font-family-graphik-bold);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.graphik-medium-carrot-orange-10px {
+  color: var(--carrot-orange-2);
+  font-family: var(--font-family-graphik-medium);
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.graphik-medium-sunglo-10px {
+  color: var(--sunglo-2);
+  font-family: var(--font-family-graphik-medium);
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.graphik-medium-oslo-gray-14px {
+  color: var(--oslo-gray);
+  font-family: var(--font-family-graphik-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.graphik-medium-oslo-gray-12px {
+  color: var(--oslo-gray);
+  font-family: var(--font-family-graphik-medium);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.graphik-medium-tundora-14px {
+  color: var(--tundora);
+  font-family: var(--font-family-graphik-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.border-1px-black-2 {
+  border: 1px solid var(--black-2);
+}
+
+.border-1px-black-3 {
+  border: 1px solid var(--black-3);
+}
+
+.border-2px-mountain-mist {
+  border: 2px solid var(--mountain-mist);
+}
+
+.border-1px-black {
+  border: 1px solid var(--black);
+}
+
+.border-1px-black-4 {
+  border: 1px solid var(--black-4);
+}
+
+.border-1px-tradewind {
+  border: 1px solid var(--tradewind);
+}
+
+.border-1px-black-5 {
+  border: 1px solid var(--black-5);
+}
+
+.border-1px-mystic {
+  border: 1px solid var(--mystic);
+}
+
+.border-1px-black-6 {
+  border: 1px solid var(--black-6);
+}
+
+.border-1px-conch {
+  border: 1px solid var(--conch);
+}

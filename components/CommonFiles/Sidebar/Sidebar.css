@@ -1,0 +1,21 @@
+.container
+{
+    height:100%;
+    width:40%;
+    
+}
+#id:hover.active
+{
+   
+    width:90%;
+    background-color:black;
+    padding:17%;
+
+}
+/* ul.sidebar li a:hover.active {
+    background: rgb(54 57 64 / 27%);
+    border-radius: 15px;
+    box-shadow: inset -1px 1px 9px rgb(0 0 0), inset -2px -4px 4px rgb(255 255 255 / 20%);
+    color: #0F8BFE;
+    width: 125%;
+} */

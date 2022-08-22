@@ -1,0 +1,64 @@
+.group-21291 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 722px;
+  min-height: 131px;
+  position: absolute;
+  top: 83px;
+  width: 159px;
+}
+
+.group-21198 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 84px;
+  width: 161px;
+  margin-top: 31%;
+}
+
+.icon-upload_arrow {
+  height: 34px;
+  margin-right: 6.6px;
+  width: 30px;
+}
+
+.drag-uplaod-file {
+  height: 31px;
+  letter-spacing: 0;
+  line-height: 31px;
+  margin-right: 2.0px;
+  min-width: 159px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.overlap-group-9 {
+  align-items: flex-start;
+  background-color: var(--harp);
+  border-radius: 11px;
+  display: flex;
+  height: 30px;
+  margin-top: 17px;
+  min-width: 159px;
+  padding: 6px 42px;
+}
+
+.browse-file {
+  height: 17px;
+  letter-spacing: 0;
+  line-height: 17px;
+  white-space: nowrap;
+}
+
+.group-21291.group-21291-1 {
+  left: 484px;
+  min-height: 129px;
+  top: 493px;
+}
+
+.group-21291.group-21291-1 .overlap-group-9 {
+  margin-top: 15px;
+}
+

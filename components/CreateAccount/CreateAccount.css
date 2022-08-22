@@ -1,0 +1,113 @@
+.create-account {
+  align-items: flex-end;
+  background-color: var(--white-lilac);
+  display: flex;
+  flex-direction: column;
+  height: 951px;
+  padding: 79.0px 439.0px;
+  width: 1440px;
+}
+
+.logo-ltr-1-11 {
+  align-self: center;
+  height: 54px;
+  margin-top: 27px;
+  width: 257px;
+}
+
+.group-21202 {
+  align-items: flex-start;
+  display: flex;
+  height: 640px;
+  margin-top: 72px;
+  min-width: 552px;
+}
+
+.overlap-group1-13 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 14px;
+  box-shadow: 0px 34px 30px #5763740f;
+  display: flex;
+  flex-direction: column;
+  min-height: 640px;
+  padding: 43.1px 34.9px;
+  width: 542px;
+}
+
+.create-account-1 {
+  height: 23px;
+  letter-spacing: 0;
+  line-height: 31px;
+  margin-bottom: -8px;
+  margin-top: 2px;
+  text-align: center;
+  white-space: nowrap;
+  width: 194px;
+}
+
+.full-name-2 {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 31px;
+  margin-bottom: -9px;
+  margin-left: 11.91px;
+  margin-top: 38px;
+  white-space: nowrap;
+}
+
+.rectangle-22-1 {
+  align-self: center;
+  background-color: var(--white);
+  border-radius: 14px;
+  box-shadow: 1px 11px 30px #1b504f14;
+  height: 53px;
+  margin-right: 2.0px;
+  padding-left: 4%;
+  margin-top: 10px;
+  width: 457px;
+}
+
+.overlap-group1-item {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 31px;
+  margin-bottom: -9px;
+  margin-left: 15.63px;
+  margin-top: 24px;
+  white-space: nowrap;
+}
+
+.password {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 31px;
+  margin-bottom: -9px;
+  margin-left: 11.91px;
+  margin-top: 26px;
+  white-space: nowrap;
+}
+
+.overlap-group-26 {
+  align-items: center;
+  align-self: center;
+  background-color: var(--tradewind);
+  border-radius: 11px;
+  display: flex;
+  height: 47px;
+  justify-content: flex-end;
+  margin-right: 2.0px;
+  margin-top: 30px;
+  min-width: 444px;
+  padding: 0 187.2px;
+}
+
+.create {
+  height: 31px;
+  letter-spacing: 0;
+  line-height: 31px;
+  text-align: center;
+  white-space: nowrap;
+  width: 69px;
+}
+
